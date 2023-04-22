@@ -5,9 +5,12 @@ This repository contains an example code for performing object detection using t
 ## Instructions
 
 Clone this repository to your local machine.
-Open the yolov4_object_detection.R file in R or RStudio.
+
+Open the 'yolov4_object_detection.R' file in R or RStudio.
+
 Modify the file paths to point to your custom YOLOv4 model, configuration file, class names file, and image directory.
 Run the code.
+
 Note that the YOLOv4 model files and class names file are not included in this repository and must be obtained separately.
 
 ## Datasets
